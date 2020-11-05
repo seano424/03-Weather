@@ -1,0 +1,22 @@
+/* TODO: Put your CSS code in here */
+.header {
+  display: flex;
+}
+
+.container {
+  width: 33vw;
+  margin: 7% auto;
+}
+
+
+.col-8 {
+  padding-right: 0;
+}
+
+.col-4 {
+  padding-left: 0;
+}
+
+.submit {
+  width: 100%;
+}
